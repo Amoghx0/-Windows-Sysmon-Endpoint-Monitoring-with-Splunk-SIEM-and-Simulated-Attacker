@@ -43,5 +43,5 @@
 
 - How attacker activities manifest in logs and how to trace them.
 
-### Overall, this project strengthened my foundational knowledge in SOC operations, endpoint security, and adversary detection—critical skills for any role in cybersecurity, especially in threat detection and response.
+### Overall, this project strengthened my foundational knowledge in SOC operations, endpoint security.
 
