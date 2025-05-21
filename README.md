@@ -12,7 +12,7 @@
 
 - Customized the Sysmon configuration to reduce noise and focus on high-fidelity security events.
 
-### SIEM Integration with Splunk:
+### SIEM Integration with Splunk
 - Deployed and configured Splunk to receive and index Sysmon logs.
 
 - Created dashboards and alerts in Splunk to visualize suspicious behaviors
