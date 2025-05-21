@@ -25,9 +25,10 @@
 ![Screenshot (9)](https://github.com/user-attachments/assets/f0a4e880-103a-424d-b094-fe2728344c5a)
 
 ##  Detecting suspicious alert
-= Developed basic detection rules using Splunk to trigger alerts on suspicious events.
+- Developed basic detection rules using Splunk to trigger alerts on suspicious events.
 
 - Practiced threat hunting by tracing attacker actions through Sysmon logs.
+
 ![Screenshot (12)](https://github.com/user-attachments/assets/fdef6b5d-1a95-400c-ba25-c61f4c5c04fd)
 
 
