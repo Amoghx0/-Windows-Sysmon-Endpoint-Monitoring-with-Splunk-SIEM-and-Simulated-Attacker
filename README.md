@@ -1,4 +1,6 @@
 # Windows-Sysmon-Endpoint-Monitoring-with-Splunk-SIEM-and-Simulated-Attacker
+<img src="https://img.shields.io/badge/-Sysmon-000000?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Sysmon Badge" /><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    </div>
 ## Objective
 
 ### To simulate a real-world security monitoring and threat detection environment using a Windows machine with Sysmon as the endpoint telemetry collector, Splunk as the centralized SIEM solution, and a Linux system as the attacking machine. The goal is to understand how endpoint events can be collected, analyzed, and used to detect malicious activity in a controlled lab setup.
